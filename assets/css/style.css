@@ -223,6 +223,9 @@ input:focus, textarea:focus {
 .color-social .fa-linkedin {
     background: #0177b5; }
 
+.color-social .fa-github {
+    background: #777777; }
+
 .color-social .fa-dribbble {
     background: #ea4c89; }
 
@@ -680,6 +683,7 @@ input:focus, textarea:focus {
     font-weight: normal; }
 
 .working-duration {
+    font-size:10pt;
     background-image: -webkit-linear-gradient(right, #fb881d 0%, #ffad34 100%);
     background-image: -o-linear-gradient(right, #fb881d 0%, #ffad34 100%);
     background-image: -webkit-gradient(linear, right top, left top, from(#fb881d), to(#ffad34));
