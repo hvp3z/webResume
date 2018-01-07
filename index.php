@@ -50,10 +50,6 @@
           </div> <!-- END container-->
         </section> <!-- END about-me-->
 
-
-
-
-
         <section class="my-interest bg-gray">
 
           <div class="container">
@@ -115,10 +111,6 @@
 
           </div> <!-- END container-->
         </section> <!-- END my-interest-->
-
-
-
-
 
         <!-- <section class="awards">
 
