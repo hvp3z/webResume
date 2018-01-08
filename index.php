@@ -66,8 +66,8 @@
 
                     <div class="col-md-6 mt-5">
                         <div class="work-exp-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeIn;">
-                            <h4 class="block-title">Full Stack Developer</h4>
-                            <h6 class="company-name color-text">LaCentrale.fr</h6>
+                            <h4 style="display:inline-block" class="block-title">Full Stack Developer</h4>
+                            <img style="max-width:120px; max-height: 120px; display:inline-block;" src="assets/img/lc.jpg" alt="LaCentrale">
                             <div class="working-duration">
                                 Nov 2017 - Now
                             </div>
@@ -80,7 +80,8 @@
 
                     <div class="col-md-6 mt-5">
                         <div class="work-exp-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
-                            <h4 class="block-title">Zend & Symfony Developer</h4>
+                            <h4 style="display:inline-block;" class="block-title">Zend & Symfony Developer</h4>
+                            <img style="max-width:120px; max-height: 120px; display:inline-block;" src="assets/img/ca.jpg" alt="Crédit Agricole">
                             <h6 class="company-name color-text">Crédit Agricole</h6>
                             <div class="working-duration">
                                 May 2017 - Oct 2017
@@ -98,7 +99,7 @@
 
                     <div class="col-md-6 mt-5">
                         <div class="work-exp-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeIn;">
-                            <h4 class="block-title">Symfony & SuiteCRM Developer</h4>
+                            <h4 style="display:inline-block;" class="block-title">Symfony & SuiteCRM Developer</h4>
                             <h6 class="company-name color-text">Megamark</h6>
                             <div class="working-duration">
                                 Sep 2016 - Apr 2017
