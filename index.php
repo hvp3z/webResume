@@ -209,9 +209,9 @@
                             </div>
                         </div> <!-- END skill-->
 
-                        <div class="skill wow fadeIn" style="visibility: hidden; animation-name: none;">
+                        <div class="skill">
                             <p class="skill-name">Symfony 2 & 3 / Zend / Magento</p>
-                            <div class="progress">
+                               <div class="progress">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="90" style="width: 90%;"><span class="progress-tooltip" style="left:90%">90%</span></div>
                             </div>
                         </div> <!-- END skill-->
