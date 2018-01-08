@@ -26,7 +26,7 @@ if (strpos($uri, 'index') !== false) {
             </a>
         </li>
         <li>
-            <a class="scrolling" href="<?php echo $anchors ? '#education': 'index.php'; ?>">
+            <a class="scrolling" href="<?php echo $anchors ? '#work-experience': 'index.php'; ?>">
                 <span class="lnr lnr-license"></span>
                 <span class="nav-text">resume</span>
             </a>

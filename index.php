@@ -50,7 +50,7 @@
           </div> <!-- END container-->
         </section> <!-- END about-me-->
 
-        <section class="work-experience bg-gray">
+        <section class="work-experience bg-gray" id="work-experience">
             <div class="container">
 
                 <div class="row">
@@ -262,9 +262,6 @@
             </div> <!-- END container-->
         </section> <!-- END skills-->
 
-
-
-
         <!--<section class="testimonials">
             <div class="container">
                 <div class="row">
@@ -410,10 +407,6 @@
 
           </div> <!-- END container-->
         </section> <!-- END my-interest-->
-
-
-
-
 
         <!-- <section class="awards">
 
