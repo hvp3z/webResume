@@ -1,3 +1,12 @@
+<?php
+// Here, b a d  d e s i g n.
+$anchors = false;
+$uri = $_SERVER['REQUEST_URI'];
+if (strpos($uri, 'index') !== false) {
+    $anchors = true;
+}
+?>
+
 <nav id="nav">
     <div class="sm-nav-toggler">
         <span class="lnr lnr-menu"></span>
@@ -11,13 +20,13 @@
             </a>
         </li>
         <li>
-            <a class="scrolling" href="#about">
+            <a class="scrolling" href="<?php echo $anchors ? '#about': 'index.php'; ?>">
                 <span class="lnr lnr-user"></span>
                 <span class="nav-text">About</span>
             </a>
         </li>
         <li>
-            <a href="resume.php">
+            <a class="scrolling" href="<?php echo $anchors ? '#education': 'index.php'; ?>">
                 <span class="lnr lnr-license"></span>
                 <span class="nav-text">resume</span>
             </a>

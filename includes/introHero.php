@@ -5,7 +5,7 @@
 
             <div class="col-sm-12 text-center">
                 <img style="border-radius: 100%; opacity:0.8" class="intro-hero-img" src="assets/img/about-large.jpg" alt="">
-                <h1 class="hero-title">Hello Guys, I’m <strong>Matthieu Duret Diabangouaya</strong> </h1>
+                <h1 class="hero-title"><strong>Matthieu </strong>Duret Diabangouaya<br/><b>Full-Stack Developer</b> and <b>IT consultant</b> </h1>
                 <p class="hero-tagline">
                     I am
                     <span class="typelist-skill" data-typist="a gamer, a design curious, a traveller, an entrepreneur,a web enthusiast">a passionate developer</span>
