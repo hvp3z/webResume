@@ -167,7 +167,7 @@ input:focus, textarea:focus {
     background-image: linear-gradient(to right, #fb881d 0%, #ffad34 100%);
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFB881D', endColorstr='#FFFFAD34', GradientType=1);
-    color: #fff; }
+    color: #fff !important; }
 
 .google-plus-link {
     color: #eb4235; }
