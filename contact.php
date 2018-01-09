@@ -53,7 +53,7 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-sm-12 text-center mb-5 wow zoomIn" style="visibility: hidden; animation-name: none;">
+                <div class="col-sm-12 text-center mb-5 wow zoomIn" style="animation-name: none;">
                     <h2 class="section-title">
                         get in touch
                     </h2>
@@ -63,7 +63,7 @@
 
             <div class="row">
 
-                <div class="col-lg-8 pt-md-5 wow fadeIn" style="visibility: hidden; animation-name: none;">
+                <div class="col-lg-8 pt-md-5 wow fadeIn" style="animation-name: none;">
                     <h4 class="block-title">Feel free to Drop a line</h4>
                     <p>
                         If you have any question concerning my work or want to talk to me about your project, don't hesitate to fill the form and I'll get in touch with you as soon as possible.
@@ -98,7 +98,7 @@
 
                 <div class="col-lg-4 mt-5">
 
-                    <div class="contact-block wow zoomIn" style="visibility: hidden; animation-name: none;">
+                    <div class="contact-block wow zoomIn" style="animation-name: none;">
                         <h4>Contact Information</h4>
 
                         <div class="contact-info">
