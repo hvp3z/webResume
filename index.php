@@ -67,7 +67,7 @@
                     <div class="col-md-6 mt-5">
                         <div class="work-exp-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeIn;">
                             <h4 class="block-title">Full Stack Developer</h4>
-                            <h6 class="company-name color-text">LaCentrale.fr</h6>
+                            <h6 class="company-name color-text">LaCentrale.fr - <strong>Paris</strong></h6>
                             <div class="working-duration">
                                 Nov 2017 - Now
                             </div>
@@ -81,13 +81,13 @@
                     <div class="col-md-6 mt-5">
                         <div class="work-exp-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
                             <h4 class="block-title">Zend & Symfony Developer</h4>
-                            <h6 class="company-name color-text">Crédit Agricole</h6>
+                            <h6 class="company-name color-text">Crédit Agricole - <strong>Paris</strong></h6>
                             <div class="working-duration">
                                 May 2017 - Oct 2017
                             </div>
                             <p>
                                 <b>Responsibilities : </b> Study, design and development of applications, maintenance of the internal applications portfolio</br>
-                                <b>Technologies : </b>Zend FrameWork, Symfony 2, SQL Server Management Studio, Bootstrap, HTML5, CSS, JavaScript, jQuery, Git
+                                <b>Technologies : </b>Zend FrameWork, Symfony 2, SQL Server Management Studio, Bootstrap, HTML5, CSS3, JavaScript, jQuery, Git
                             </p>
                         </div> <!-- END work-exp-block-->
                     </div> <!-- END col-md-6 -->
@@ -99,7 +99,7 @@
                     <div class="col-md-6 mt-5">
                         <div class="work-exp-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeIn;">
                             <h4 class="block-title">Symfony & SuiteCRM Developer</h4>
-                            <h6 class="company-name color-text">Megamark</h6>
+                            <h6 class="company-name color-text">Megamark - <strong>Paris</strong></h6>
                             <div class="working-duration">
                                 Sep 2016 - Apr 2017
                             </div>
@@ -113,13 +113,14 @@
                     <div class="col-md-6 mt-5">
                         <div class="work-exp-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeIn;">
                             <h4 class="block-title">Magento Developer</h4>
-                            <h6 class="company-name color-text">Activ'Browser</h6>
+                            <h6 class="company-name color-text">Activ'Browser - <strong>Paris</strong></h6>
                             <div class="working-duration">
                                 Feb 2015 - Jul 2016
                             </div>
                             <p>
                                 <b>Responsabilities : </b> Magento plugin creation, applications maintenance, support for evolutions and bug fixes on Magento client shops.</br>
-                                <b>Technologies : </b> Magento Framework (1.4 to 1.8), JavaScript, Prototype, jQuery, HTML5, LESS, CSS3, Git
+                                <b>Technologies : </b> Magento Framework (1.4 to 1.8), JavaScript, Prototype, jQuery, HTML5, LESS, CSS3, Git<br/>
+                                <b>Organisation : </b> V-Cycle
                             </p>
                         </div> <!-- END work-exp-block-->
                     </div> <!-- END col-md-6 -->
@@ -146,7 +147,7 @@
                         <div class="edu-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeIn;">
                             <p class="edu-session">2009 - 2014</p>
                             <div class="edu-info-text">
-                                <h4 class="block-title">M.Sc. - Computer Science and Information Systems</h4>
+                                <h4 class="block-title">M.Sc. - Computer Science and Information Systems - <strong>France</strong></h4>
                                 <h6 class="institute-name mb-4 mt-3">
                                     <a href="http://www.supinfo.com/" target="_blank" title="Supinfo">
                                         <img style="max-width:120px; max-height: 120px;" src="assets/img/supinfo.png" alt="supinfo">
@@ -163,7 +164,7 @@
                         <div class="edu-block wow fadeIn" data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeIn;">
                             <p class="edu-session">2009</p>
                             <div class="edu-info-text">
-                                <h4 class="block-title">Baccalauréat S. (Scientific)</h4>
+                                <h4 class="block-title">Baccalauréat S. (Scientific) - <strong>France</strong></h4>
                                 <h6 class="institute-name mb-4 mt-3">Lycée Sainte-Ursule</h6>
                                 <p>
                                     French High School diploma.
