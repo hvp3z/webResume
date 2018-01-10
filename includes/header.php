@@ -8,7 +8,7 @@
     <meta name="description" content="Matthieu's professionnal overview">
     <meta name="author" content="EchoTheme">
     <!-- Favicon-->
-    <link rel="icon" href="assets/img/facicon/114x114.png" type="image/gif">
+    <link rel="icon" href="assets/img/favicon/about-114.jpg" type="image/gif">
 
     <!-- Title-->
     <title>Matthieu | Professionnal Overview</title>
